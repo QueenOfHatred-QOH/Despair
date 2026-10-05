@@ -1,8 +1,0 @@
-.env
-.env.*
-!.env.example
-__pycache__/
-*.py[cod]
-sins2_data.json
-sins2_data.json.tmp
-.DS_Store
