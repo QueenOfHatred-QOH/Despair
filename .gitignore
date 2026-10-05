@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+sins_data.json
+sins_data.json.tmp
+.DS_Store
+.venv/
